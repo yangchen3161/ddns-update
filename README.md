@@ -6,7 +6,7 @@ In the IPv4 era, DDNS clients can run on servers or routers, and other machines 
 
 
 ### How to Use  
-After downloading the archive from the realeas page, modify the config.ini, and then run the ddns-update.exe directly. This program also supports running without interface, adding the parameter "-noconsole", which is suitable for use in Windows scheduled tasks.  
+After downloading the archive from the releases page, modify the “config.ini” , and then run the “ddns-update.exe” directly. This program also supports running without interface, adding the parameter "-noconsole", which is suitable for use in Windows scheduled tasks.  
 
 ### Configuration config.ini    
 All custom configurations are in the config.ini, the program cannot run correctly if the settings are incorrect, and multiple different ddns service provider configurations can be set, which is suitable for all service providers who update the dynamic domain name IP through HTTP  
