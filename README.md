@@ -1,7 +1,7 @@
-# ddns-update
+# ddns-update client 
 ### 
 A ddns client that runs under Windows developed with AI code assistant
-In the IPv4 era, DDNS clients can run on servers or routers, and other machines can access them through NAT. In the IPv6 era, if a device needs to report its own IPv6 address, it needs to run the DDNS client on the device. It supports multiple different DDNS service providers and can run DDNS clients under windows is relatively rare, so I wrote one for myself with an AI code assistant, considering that there may be other people who need it as much as I do, I put the code and the compiled exe single file here, and those who need it can use it.  
+In the IPv4 era, DDNS clients can run on servers or routers, and other machines can access them through NAT. In the IPv6 era, if a device needs to report its own IPv6 address, it needs to run the DDNS client on the device. It supports multiple different DDNS service providers and can run on Windows-X86 is relatively rare, so I wrote one for myself with an AI code assistant, considering that there may be other people who need it as much as I do, I put the code and the compiled exe single file here, and those who need it can use it.  
 
 
 
